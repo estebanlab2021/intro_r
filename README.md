@@ -1,4 +1,4 @@
-<h1 align="center"> Material educativo introductorio a la programación con R </h1>
+<h1 align="center"> Introducción a la programación con R </h1>
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
